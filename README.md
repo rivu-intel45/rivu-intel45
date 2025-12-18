@@ -20,6 +20,7 @@ Curious and driven developer diving into **Machine Learning**, **Data Science**,
 - **building-energy-forecasting** – Jupyter Notebook project that builds ML models to forecast building energy consumption with preprocessing, training, and evaluation.  
 - **house-prices-regression** – Kaggle-style house price regression with extensive EDA, feature engineering, and modelling on 1460 homes.  
 - **luna-reader** – Live camera text reader with mirror mode, multilingual OCR, real-time object detection, and text-to-speech feedback using OpenCV, Tesseract, and gTTS.
+  
   ---
 
 ## 📊 GitHub Stats & Activity
